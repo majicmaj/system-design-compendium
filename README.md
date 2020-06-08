@@ -6,7 +6,7 @@ Open-source compendium of system design resources
 The desigining of systems to satisfy demands, constraints, and use requirements
 
 ### Scalability
-The ability of a system to handle growth which is achieved by adding more resource to the system like more hardware (vertical scaling) or better hardware (horizontal scaling).
+The ability of a system to handle growth which is achieved by adding more resource to the system like more hardware (horizontal scaling) or better hardware (vertical scaling).
 
 ### Load Balancing
 Distributes and balances requests traffic between multiple servers
